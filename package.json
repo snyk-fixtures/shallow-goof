@@ -10,7 +10,8 @@
   "dependencies": {
     "qs": "0.0.6",
     "ghost": "0.4.2",
-    "node-uuid": "1.4.0"
+    "node-uuid": "1.4.0",
+    "vm2": "2.0.2"
   }
 }
 
